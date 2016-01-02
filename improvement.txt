@@ -1,0 +1,9 @@
+Wedding RSVP
+Form fields:
+Name
+Total Number of guests
+Number that are kids
+Attending in brazil, houston, cedar city [check boxes]
+Special Dietary requirements/allergies/ requests
+
+
